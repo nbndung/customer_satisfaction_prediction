@@ -1,0 +1,10 @@
+- Datasets: https://www.kaggle.com/c/santander-customer-satisfaction/data
+- Explore datasets
+- Handling missing data and outliers
+- Eliminate constant (duplicate), quasi-constant features
+- Lựa chọn đặc trưng cho bài toán dựa trên phương pháp Extra Trees Classifier.
+- Scaling features
+- Select suitable base models for feature selection
+- Ensemble models for model selection
+- Train, evaluate, save and load model
+- Tuning to get better ROC-AUC model
